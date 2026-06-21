@@ -21,7 +21,7 @@ Pulls flights from your Gmail, calculates your carbon footprint with offset sugg
 **My role:** Solo build, end to end.
 
 ### [Sports Betting Bot](https://github.com/Rorylm1/rory-tradeR) *(Python, Betfair API, 2025 - ongoing)*
-Connects to Betfair's exchange API for automated tennis betting using publicly available data. Not yet profitable, but I'm learning more about edge detection and bankroll management than any course could teach.
+Connects to Betfair's exchange API for automated tennis betting using publicly available data. Not yet profitable, but I'm learning more about edge detection and bankroll management than any course could teach. https://rory-trade-r.vercel.app/
 **My role:** Solo build, ongoing iteration.
 
 ### Other projects
