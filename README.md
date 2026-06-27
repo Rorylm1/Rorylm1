@@ -41,7 +41,7 @@ Connects to Betfair's exchange API for automated tennis betting using publicly a
 
 ## Currently
 
-Building Daily Art, learning new chess openings on Chess Coach, and iterating on the betting bot. Exploring accelerator programmes as a solo founder applicant.
+Building Daily Art, learning new chess openings on Chess Coach, and iterating on the betting bot.
 
 ## Get in touch
 
