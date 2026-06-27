@@ -16,6 +16,10 @@ I studied Economics and Philosophy at Edinburgh, then did Le Wagon's full-stack 
 A Claude Code scaffold with a custom Figma MCP that embeds Aspora's design language. Lets design-adjacent staff prototype and ship without waiting for design resource. Result: 3 A/B tests shipped without a designer, including a live feedback feature now serving all active users.
 **My role:** Conceived, built, and maintain. PM and sole developer.
 
+### [Chess Coach](https://github.com/Rorylm1/Chess-coach) *(Next.js, Stockfish WASM, Claude, 2026)*
+I've always been obsessed with chess and wanted to learn new openings, but I found YouTube tutorials weren't interactive enough. So I built a chess opening coach paired with a random board generator you can actually play on. Stockfish is the source of truth for every chess fact and Claude only narrates the lesson, so the coaching stays grounded rather than invented. https://chess-coach-nine-beta.vercel.app
+**My role:** Solo build, end to end.
+
 ### [iFlight](https://github.com/Rorylm1/iFlight) *(React, Node, Gmail API, 2024)*
 Pulls flights from your Gmail, calculates your carbon footprint with offset suggestions, and displays a world map of where you've been. 10+ beta users. https://iflight-v2.vercel.app/
 **My role:** Solo build, end to end.
@@ -37,7 +41,7 @@ Connects to Betfair's exchange API for automated tennis betting using publicly a
 
 ## Currently
 
-Building Daily Art and iterating on the betting bot. Exploring accelerator programmes as a solo founder applicant.
+Building Daily Art, learning new chess openings on Chess Coach, and iterating on the betting bot. Exploring accelerator programmes as a solo founder applicant.
 
 ## Get in touch
 
